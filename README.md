@@ -1,2 +1,2 @@
 # html-css---studies
-This repository contains all of my React/Next projects make for studies
+This repository contains all of my HTML and CSS projects make for studies
